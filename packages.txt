@@ -1,1 +1,2 @@
 libgfortran5
+libblas
